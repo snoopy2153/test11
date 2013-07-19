@@ -1,0 +1,6 @@
+c:\users\renwen\documents\visual studio 2012\Projects\HouseManageSystemTest\HouseManageSystemTest\bin\Debug\HouseManageSystemTest.exe.config
+c:\users\renwen\documents\visual studio 2012\Projects\HouseManageSystemTest\HouseManageSystemTest\bin\Debug\HouseManageSystemTest.exe
+c:\users\renwen\documents\visual studio 2012\Projects\HouseManageSystemTest\HouseManageSystemTest\bin\Debug\HouseManageSystemTest.pdb
+c:\users\renwen\documents\visual studio 2012\Projects\HouseManageSystemTest\HouseManageSystemTest\obj\Debug\HouseManageSystemTest.csprojResolveAssemblyReference.cache
+c:\users\renwen\documents\visual studio 2012\Projects\HouseManageSystemTest\HouseManageSystemTest\obj\Debug\HouseManageSystemTest.exe
+c:\users\renwen\documents\visual studio 2012\Projects\HouseManageSystemTest\HouseManageSystemTest\obj\Debug\HouseManageSystemTest.pdb
